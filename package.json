@@ -1,6 +1,6 @@
 {
   "name": "donejs-justinbmeyer-jshint",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Add JSHint and editor config to DoneJS applications",
   "homepage": "http://donejs.com",
   "author": {
